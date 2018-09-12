@@ -57,14 +57,6 @@ public class NewTest {
 
 	}
 	
-	@Test
-	public void Mytest() {
-		
-System.out.println("Test git");
-System.out.println("Test git");
-System.out.println("Test git");
-
-	}
 
 	@BeforeClass
 	public void beforeClass() {
