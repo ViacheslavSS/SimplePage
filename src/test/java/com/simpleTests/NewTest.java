@@ -61,6 +61,8 @@ public class NewTest {
 	public void Mytest() {
 		
 System.out.println("Test git");
+System.out.println("Test git");
+
 	}
 
 	@BeforeClass
