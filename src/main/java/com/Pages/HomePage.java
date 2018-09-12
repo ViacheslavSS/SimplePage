@@ -19,6 +19,8 @@ public class HomePage extends NewTest {
 	WebElement p1;
 	@FindBy(css = "div >.post p:nth-of-type(2)")
 	WebElement p2;
+	@FindBy(css = "div >.post p:nth-of-type(2)")
+	WebElement testLocator;
 	
 
 	public String isNovigateSuccess() {
