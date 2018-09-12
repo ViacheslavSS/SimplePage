@@ -58,7 +58,8 @@ public class NewTest {
 	}
 	@Test
 	 public void testGit(){
-		
+	
+	System.out.println("Test");
 		
 	}
 	
