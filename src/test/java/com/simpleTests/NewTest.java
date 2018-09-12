@@ -60,6 +60,7 @@ public class NewTest {
 	 public void testGit(){
 	
 	System.out.println("Test");
+	System.out.println("Test");
 		
 	}
 	
