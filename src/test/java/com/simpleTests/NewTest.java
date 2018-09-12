@@ -56,6 +56,11 @@ public class NewTest {
 		assertTrue(paragraf2.contains("Starusev"));
 
 	}
+	@Test
+	 public void testGit(){
+		
+		
+	}
 	
 
 	@BeforeClass
