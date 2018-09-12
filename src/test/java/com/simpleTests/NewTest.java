@@ -62,6 +62,7 @@ public class NewTest {
 		
 System.out.println("Test git");
 System.out.println("Test git");
+System.out.println("Test git");
 
 	}
 
